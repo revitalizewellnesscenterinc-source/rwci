@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Revitalize Wellness Center Inc</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f8fb;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #1f6f8b;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #1f6f8b;
+      margin-bottom: 10px;
+    }
+    .services ul {
+      list-style: none;
+      padding: 0;
+    }
+    .services li {
+      background: white;
+      margin: 8px 0;
+      padding: 12px;
+      border-left: 5px solid #1f6f8b;
+    }
+    .card {
+      background: white;
+      padding: 25px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    footer {
+      background: #e8eef3;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Revitalize Wellness Center Inc</h1>
+  <p>Mental Health Psychiatric Services</p>
+</header>
+
+<section class="card">
+  <h2>About Our Practice</h2>
+  <p>
+    Revitalize Wellness Center Inc provides compassionate, patient-centered
+    psychiatric services for adults and children. Our goal is to support mental
+    wellness through professional, respectful, and individualized care.
+  </p>
+</section>
+
+<section class="services">
+  <h2>Services Offered</h2>
+  <ul>
+    <li>Medication Management</li>
+    <li>Anxiety Disorders</li>
+    <li>Depression</li>
+    <li>Mood Disorders</li>
+    <li>Sleep Disorders</li>
+    <li>ADHD</li>
+    <li>Adults & Children</li>
+  </ul>
+</section>
+
+<section class="card">
+  <h2>Provider</h2>
+  <p><strong>Shazia Malik, PMHNP & FNP</strong></p>
+  <p>Appointments are available by scheduled visit only.</p>
+</section>
+
+<section class="card">
+  <h2>Contact Information</h2>
+  <p><strong>Phone:</strong> 559-507-3760</p>
+  <p><strong>Email:</strong> revitalizwellnesscenterinc@gmail.com</p>
+  <p><strong>Website:</strong> revitalizwellnesscenterinc.com</p>
+  <p><strong>Address:</strong><br>
+     2501 W Shaw Ave, Suite 113<br>
+     Fresno, CA 93711-3307
+  </p>
+</section>
+
+<section class="card">
+  <h2>Important Notice</h2>
+  <p>
+    This website is for informational purposes only and does not replace
+    professional medical or mental health care. If you are experiencing a
+    medical or mental health emergency, please call 911 or your local emergency
+    number immediately.
+  </p>
+</section>
+
+<footer>
+  © 2025 Revitalize Wellness Center Inc. All rights reserved.
+</footer>
+
+</body>
+</html>
